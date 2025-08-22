@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNhTNFuCaVU=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\carpi\\source\\repos\\MiPrimerAPI\\MiPrimerAPI\\MiPrimerAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "No se puede resolver 'Swashbuckle.AspNetCore (>= 6.6.2)' para 'net8.0'. PackageSourceMapping está habilitado. No se tuvieron en cuenta los siguientes orígenes: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
